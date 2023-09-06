@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/flexicars/static/css/main.073c9b0a.css",
+    "main.js": "/flexicars/static/js/main.f68ff4ea.js",
+    "static/js/787.0d9d313d.chunk.js": "/flexicars/static/js/787.0d9d313d.chunk.js",
+    "static/media/logo.svg": "/flexicars/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/flexicars/index.html",
+    "main.073c9b0a.css.map": "/flexicars/static/css/main.073c9b0a.css.map",
+    "main.f68ff4ea.js.map": "/flexicars/static/js/main.f68ff4ea.js.map",
+    "787.0d9d313d.chunk.js.map": "/flexicars/static/js/787.0d9d313d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f68ff4ea.js"
+  ]
+}
